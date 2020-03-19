@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 
-namespace mdt112_assignment2
+namespace dayum 
 {
     public enum Size{
         SMALL, MEDIUM, LARGE
